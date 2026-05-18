@@ -1,4 +1,4 @@
-# Moored-Marine-Snow-Sediment-Trap-Embedded-System-Code
+# Moored-Marine-Snow-Sediment-Trap
 Moored-Marine-Snow-Sediment-Trap-Embedded-System-Code designed for long term deployments in harsh conditions
 
 Uploaded is circuit diagram and a .ino file that was flashed to an Arduino Nano 33 IoT, with a SAMD21G18A, microcontroller unit. The code interfaces with preipherals seen in the circuit diagram. The system interfaces and communicates with an ESP32-CAM as seen in the circuit.
